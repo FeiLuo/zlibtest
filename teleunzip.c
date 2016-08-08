@@ -387,7 +387,7 @@ int teleunzip(const char* zfile)
     const char *password=NULL;
 //    char filename_try[MAXFILENAME+16] = "";
 //    int i;
-//    int ret_value=0;
+    int ret_value=0;
 //    int opt_do_list=0;
 //    int opt_do_extract=1;
     int opt_do_extract_withoutpath=0;
